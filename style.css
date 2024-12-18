@@ -3,9 +3,9 @@ body {
 }
 
 h1 {
-    font-family: Monoton;
-    font-size: 70px;
-    margin: 0.2em;
+    font-family: "Faster One", serif;
+    font-weight: 500;
+    font-style: normal;
 }
 
 h2 {
